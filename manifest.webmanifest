@@ -1,11 +1,11 @@
 {
-    "name": "DuperVerse",
-    "short_name": "DuperVerse",
+    "name": "Duperverse Deck",
+    "short_name": "Duperverse Deck",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
-    "description": "DuperVerse",
+    "description": "DuperVerse Deck",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",

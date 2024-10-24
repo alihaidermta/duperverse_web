@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-DuperVerse-0.1";
+const cacheName = "Duperverse-Duperverse Deck-0.1";
 const contentToCache = [
-    "Build/Duppp.loader.js",
-    "Build/Duppp.framework.js",
-    "Build/Duppp.data",
-    "Build/Duppp.wasm",
+    "Build/DuperVerse.loader.js",
+    "Build/DuperVerse.framework.js",
+    "Build/DuperVerse.data",
+    "Build/DuperVerse.wasm",
     "TemplateData/style.css"
 
 ];
