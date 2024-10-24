@@ -1,9 +1,9 @@
 const cacheName = "Duperverse-Duperverse Deck-0.1";
 const contentToCache = [
-    "Build/DuperVerse.loader.js",
-    "Build/DuperVerse.framework.js",
-    "Build/DuperVerse.data",
-    "Build/DuperVerse.wasm",
+    "Build/Doop.loader.js",
+    "Build/Doop.framework.js",
+    "Build/Doop.data",
+    "Build/Doop.wasm",
     "TemplateData/style.css"
 
 ];
